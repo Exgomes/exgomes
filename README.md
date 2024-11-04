@@ -1,6 +1,6 @@
-<center><h2>Hi, I'am Ewelin 👋</h2></center>
+## Hi, I'am Ewelin 👋
 
-<img src="https://img.freepik.com/fotos-gratis/especialistas-em-seguranca-cibernetica-trabalhando-com-dispositivos-tecnologicos-e-luzes-de-neon_23-2151645648.jpg">
+<img src="https://img.freepik.com/fotos-gratis/especialistas-em-seguranca-cibernetica-trabalhando-com-dispositivos-tecnologicos-e-luzes-de-neon_23-2151645648.jpg" width="300" heigth="300">
 
 --------------
 
@@ -30,7 +30,7 @@
 -----
 
 
-![Exgomes GitHub stats](https://github-readme-stats.vercel.app/api?username=exgomes&show_icons=true&theme=highcontrast)
+![Exgomes GitHub stats](https://github-readme-stats.vercel.app/api?username=exgomes&show_icons=true&theme=radical)
 
 
 <!--
