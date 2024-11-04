@@ -35,9 +35,9 @@
 
 -----
 
-<p align="center">
+
 ![Exgomes GitHub stats](https://github-readme-stats.vercel.app/api?username=exgomes&show_icons=true&theme=radical)
-</p>
+
 
 
 <!--
