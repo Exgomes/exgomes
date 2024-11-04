@@ -1,7 +1,8 @@
 <center><h2>Hi, I'am Ewelin 👋</h2></center>
 
-<img src="https://img.freepik.com/fotos-gratis/especialistas-em-seguranca-cibernetica-trabalhando-com-dispositivos-tecnologicos-e-luzes-de-neon_23-2151645648.jpg" width="150px">
----------------------------------------
+<img src="https://img.freepik.com/fotos-gratis/especialistas-em-seguranca-cibernetica-trabalhando-com-dispositivos-tecnologicos-e-luzes-de-neon_23-2151645648.jpg">
+
+--------------
 
 😊 Sejam bem vindos ao meu Github!
 
@@ -15,11 +16,9 @@
 
 ## Minhas técnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px"/>
 
------
+----------
 
 ## Minhas Certificações
 
@@ -31,7 +30,7 @@
 -----
 
 
-![Exgomes GitHub stats](https://github-readme-stats.vercel.app/api?username=exgomes&show_icons=true&theme=dracula)
+![Exgomes GitHub stats](https://github-readme-stats.vercel.app/api?username=exgomes&show_icons=true&theme=highcontrast)
 
 
 <!--
