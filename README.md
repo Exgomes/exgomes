@@ -1,6 +1,6 @@
-## Hi, I'am Ewelin 👋
+<center>## Hi, I'am Ewelin 👋</center>
 
-<img src="https://img.freepik.com/fotos-gratis/especialistas-em-seguranca-cibernetica-trabalhando-com-dispositivos-tecnologicos-e-luzes-de-neon_23-2151645648.jpg" width="300" heigth="300">
+<center><img src="https://img.freepik.com/fotos-gratis/especialistas-em-seguranca-cibernetica-trabalhando-com-dispositivos-tecnologicos-e-luzes-de-neon_23-2151645648.jpg" width="300" heigth="300"></center>
 
 --------------
 
@@ -24,7 +24,7 @@
 
 |Cursos    |  Certificados  |
 |----------| ---------------|
-|Formação Lógica de Programação | [certificado](https://hermes.dio.me/certificates/FLXF01QF.pdf)
+|Formação Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/FLXF01QF.pdf)
 |Formação HTML Web Developer | [Certificado](https://hermes.dio.me/certificates/DB746885.pdf) 
 
 -----
