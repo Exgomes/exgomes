@@ -8,7 +8,7 @@
 
 😊 Sejam bem vindos ao meu Github!
 
-🎓 Sou estudante em análise e Desenvolvimento de sistemas, estou em transição de carreira para programação.
+🎓 Sou Formada em análise e Desenvolvimento de sistemas, estou em transição de carreira para programação.
 
 💻 Meu Objetivo é ser uma desenvolvedora full stack.
 
